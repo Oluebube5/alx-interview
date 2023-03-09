@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def isWinner(x, nums):
         winners = []  # list to keep track of winners of each round
         for n in nums:
